@@ -13,7 +13,7 @@ Make sure to provide the settings via environment variables or through the [apps
 
 You can also run this app in a docker container, a [Dockerfile](/TicTacToe.Discord/Dockerfile) is already ready to be used.
 
-## How to use
+## Usage
 1. Adjust the settings
 2. Invite the bot to your server
 3. Use the ``/tictactoe`` command to start a game of Tic Tac Toe against the AI or ``/tictactoe @opponent`` to start a game of Tic Tac Toe against another player.
